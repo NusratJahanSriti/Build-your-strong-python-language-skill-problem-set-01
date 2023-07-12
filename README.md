@@ -98,4 +98,5 @@ Here are 50 fundamental programming problems in Python involving loops, if-else 
 48. Check if a given string is a palindrome ignoring spaces.
 49. Given a string, count the number of uppercase and lowercase letters.
 50. Write a program to remove duplicate characters from a string.
+
 These problems provide a variety of scenarios where you can apply different programming concepts. By solving them, you’ll gain familiarity and confidence in using loops, if-else statements, lists, tuples, sets, and dictionaries in Python. Additionally, solving these problems will improve your problem-solving skills and ability to break down complex tasks into smaller, manageable steps. Visit our course module on Python with Problem Solving.
