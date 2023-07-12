@@ -1,4 +1,5 @@
-#Build-your-Strong-Python-Language-Skills-Problem-Set-01
+Build-your-Strong-Python-Language-Skills-Problem-Set-01:---
+
 Here are 50 fundamental programming problems in Python involving loops, if-else statements, lists, tuples, sets, and dictionaries for practice and implementation. These exercises offer a great opportunity to enhance your understanding and proficiency in basic programming concepts. By working on these problems, you can strengthen your skills in solving common programming challenges using these fundamental constructs.
 1. Write a program to find the sum of all numbers from 1 to N.
 
@@ -95,7 +96,6 @@ Here are 50 fundamental programming problems in Python involving loops, if-else 
 47. Given a list of tuples, convert it into a dictionary.
 
 48. Check if a given string is a palindrome ignoring spaces.
-
 49. Given a string, count the number of uppercase and lowercase letters.
 
 50. Write a program to remove duplicate characters from a string.
